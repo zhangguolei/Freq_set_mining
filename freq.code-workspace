@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "E:\\workspace\\html\\chartTest"
+		},
+		{
+			"path": "E:\\workspace\\html\\Vue-Test"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.php": "php",
+			"initializer_list": "c",
+			"type_traits": "c",
+			"xstring": "c",
+			"xutility": "c"
+		}
+	}
+}
